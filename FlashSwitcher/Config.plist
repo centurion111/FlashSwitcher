@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StartOnLogin</key>
+	<false/>
+	<key>FlashOnly</key>
+	<false/>
+	<key>Transparency</key>
+	<real>0.3</real>
+	<key>TimeToDisplay</key>
+	<integer>10</integer>
+	<key>TimeToShowUp</key>
+	<real>0.2</real>
+	<key>TimeToDisappear</key>
+	<real>0.9</real>
+	<key>PictureWidth</key>
+	<integer>500</integer>
+</dict>
+</plist>
